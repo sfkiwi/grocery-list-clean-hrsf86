@@ -13,3 +13,20 @@ body {
 .groceries {
   margin: 10px;
 }
+
+.item-selected {
+  text-decoration: line-through;
+}
+
+.item-hide {
+  display: none
+}
+
+.groceries-table {
+  table-layout: fixed;
+  width:100%;
+}
+
+table{
+  table-layout:fixed;
+  width:100%;}
